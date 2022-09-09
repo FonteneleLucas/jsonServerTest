@@ -2,7 +2,7 @@
   "saladas": [
     {
       "id": 1,
-      "img": "https://github.com/FonteneleLucas/jsonServerTest/lefit1.jpg",
+      "img": "https://i.ibb.co/cJtPL7j/lefit1.jpg",
       "offer": true,
       "title": "Le Fit - Fitness",
       "description": "Banana, Abacaxi, Manga, Mamão, Uva, Kiwi, Morango",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "img": "https://github.com/FonteneleLucas/jsonServerTest/lefit1.jpg",
+      "img": "https://i.ibb.co/Q9kBtsY/lefit2.jpg",
       "offer": true,
       "title": "Le Fit - Fitness + Granola",
       "description": "Banana, Abacaxi, Manga, Mamão, Uva, Kiwi, Morango",
