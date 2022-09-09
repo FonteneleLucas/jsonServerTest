@@ -1,0 +1,36 @@
+{
+  "saladas": [
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/cJtPL7j/lefit1.jpg",
+      "offer": true,
+      "title": "Le Fit - Fitness",
+      "description": "Banana, Abacaxi, Manga, Mamão, Uva, Kiwi, Morango",
+      "price": 12
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/cJtPL7j/lefit1.jpg",
+      "offer": true,
+      "title": "Le Fit - Fitness + Granola",
+      "description": "Banana, Abacaxi, Manga, Mamão, Uva, Kiwi, Morango",
+      "price": 14
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/cJtPL7j/lefit1.jpg",
+      "offer": true,
+      "title": "Le Fit - Doce + Creme Especial",
+      "description": "Banana, Abacaxi, Manga, Mamão, Uva, Kiwi, Morango",
+      "price": 12
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/Q9kBtsY/lefit2.jpg",
+      "offer": true,
+      "title": "Le Fit - Premium (Nutella)",
+      "description": "Creme de avelã (Nutella), Banana, Abacaxi, Manga, Mamão, Uva, Kiwi, Morango",
+      "price": 15
+    }
+  ]
+}
